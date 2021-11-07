@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frontendbitcoin
-- 👀 I volunteer my time on weekends to do free frontend web development for Bitcoin projects.
+- 👀 I volunteer my time on weekends to do free frontend web development for Bitcoin projects
 - 💞️ I’m looking to collaborate on projects that help Bitcoin adoption and clean energy Bitcoin mining
 - 📫 Contact me on Twitter @frontendbitcoin
